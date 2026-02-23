@@ -1,7 +1,9 @@
-<p align="center"> Hi I'm Ejane, a CS student whos trying her best to land an SWE job to make her parents proud </p>
+<p align="center"> ## Hi I'm Ejane, a CS student whos trying her best to land an SWE job to make her parents proud </p>
 
 ## 🛠 Tech Stack
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,nodejs,react,git,github,vscode,arduino,firebase,flutter,dart,html,css,tailwind,mongodb,mysql,figma,ps,pr,docker)](https://skillicons.dev)
+</p>
 
 ## 📊 GitHub Stats
 
@@ -17,11 +19,14 @@
 
 ## Feel Free to Contact Me Here
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/ejanestjd/) 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://www.instagram.com/ejane._/) 
-</p>
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=discord)] : ejane
+  <a href="https://www.linkedin.com/in/ejanestjd/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/ejane._/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+  <b>ejane</b>
 </p>
 
 looking for swe with motorsport ball knowledge to be friends w
