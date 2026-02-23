@@ -26,10 +26,6 @@
   <img src="https://streak-stats.demolab.com?user=ejaneishot&theme=tokyonight" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ## Feel Free to Contact Me Here
 <p align="center">
   <a href="https://www.linkedin.com/in/ejanestjd/">
