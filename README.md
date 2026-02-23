@@ -11,9 +11,10 @@ manifesting a faang swe job
 - Java
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaneishot&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaneishotE&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ejaneishotE&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaneishot&layout=compact&theme=tokyonight)
 
