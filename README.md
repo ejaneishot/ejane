@@ -16,11 +16,15 @@ Hi I'm Ejane, a CS student whos trying her best to land an SWE job to make her p
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## Feel Free to Contact Me Here
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) : @ejane._
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) : ejane
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) 
 <p align="center">
   <a href="https://www.linkedin.com/in/ejanestjd/">
     <img src="https://img.shields.io/badge/LINKEDIN-ejanestjd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ejanestjd/](https://www.instagram.com/ejane._/">
+    <img src="[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)"/>
   </a>
 </p>
 
