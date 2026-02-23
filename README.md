@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=discord" height="40"/>
-  <b>ejane</b>
+  <b> : ejane</b>
 </p>
 
 looking for swe with motorsport ball knowledge to be friends w
