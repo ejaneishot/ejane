@@ -1,9 +1,18 @@
-<p align="center"> ## Hi I'm Ejane, a CS student whos trying her best to land an SWE job to make her parents proud </p>
+<h2 align="center">
+  Hi, I'm Ejane 👋
+</h2>
+
+<p align="center">
+  CS student trying her best to land an SWE job and make her parents proud
+</p>
 
 ## 🛠 Tech Stack
+
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,nodejs,react,git,github,vscode,arduino,firebase,flutter,dart,html,css,tailwind,mongodb,mysql,figma,ps,pr,docker)](https://skillicons.dev)
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,git,github,vscode,arduino,firebase,flutter,dart,html,css,tailwind,mongodb,mysql,figma,ps,pr,docker" />
+  </a>
+</p> 
 
 ## 📊 GitHub Stats
 
