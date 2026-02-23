@@ -1,14 +1,7 @@
-# Ejane Sutjiadi
-
-🎓 CS Student  
-manifesting a faang swe job 
+Hi I'm Ejane, a CS student whos trying her best to land an SWE job to make her parents proud
 
 ## 🛠 Tech Stack
-- Python
-- JavaScript / React
-- SQL
-- Firebase
-- Java
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,java,js,nodejs,react,linux,git,github,vscode,arduino,raspberrypi,firebase,flutter,dart,html,css,tailwind,mongodb,mysql,figma,tensorflow,ps,ai,pr)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -23,3 +16,4 @@ manifesting a faang swe job
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 looking for swe with motorsport ball knowledge to be friends w
+manifesting a faang swe job amen
