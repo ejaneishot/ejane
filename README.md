@@ -23,7 +23,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ejaneishot&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=ejaneishot&theme=tokyonight)
+  <img src="https://streak-stats.demolab.com?user=ejaneishot&theme=tokyonight" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
