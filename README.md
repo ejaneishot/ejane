@@ -1,7 +1,7 @@
 Hi I'm Ejane, a CS student whos trying her best to land an SWE job to make her parents proud
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,java,js,nodejs,react,linux,git,github,vscode,arduino,raspberrypi,firebase,flutter,dart,html,css,tailwind,mongodb,mysql,figma,tensorflow,ps,ai,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,nodejs,react,git,github,vscode,arduino,firebase,flutter,dart,html,css,tailwind,mongodb,mysql,figma,ps,pr)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
