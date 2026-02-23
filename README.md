@@ -25,6 +25,8 @@
   <a href="https://www.instagram.com/ejane._/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   <b>ejane</b>
 </p>
