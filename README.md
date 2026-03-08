@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Ejane+👋)](https://git.io/typing-svg)
-
-
 <h2 align="center">
-  Hi, I'm Ejane 👋
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Ejane+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
 </h2>
 
 <p align="center">
