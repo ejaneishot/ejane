@@ -1,8 +1,8 @@
-<h2 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Ejane+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hello+I'm+Ejane+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
-</h2>
+</p>
 
 <p align="center">
   CS student trying her best to land an SWE job and make her parents proud
